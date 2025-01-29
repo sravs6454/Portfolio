@@ -52,3 +52,11 @@ Here are some screenshots of my portfolio website:
 ## 📂 Project Structure
 
 The project folder structure looks like this:
+
+### Explanation:
+- **index.html**: Contains all the sections of our portfolio (Home, About, Skills, Services, Projects, and Contact) in a single page with smooth scrolling.
+- **assets/images/**: Contains screenshots for different sections.
+- **assets/styles/**: Contains your CSS stylesheets (e.g., `style.css`).
+- **js/script.js**: Contains JavaScript for smooth scrolling, interactivity, or any dynamic content.
+- **README.md**: The documentation for your project (the file you are editing now).
+
