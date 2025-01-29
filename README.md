@@ -46,7 +46,7 @@ Here are some screenshots of my portfolio website:
 ![Projects Page Screenshot](https://github.com/sravs6454/portfolio/blob/main//Screenshots/projects.png?raw=true)
 
 ### Contact Form
-![Contact Form Screenshot](https://github.com/sravs6454/portfolio/blob/main///Screenshots/contactform.png?raw=true)
+![Contact Form Screenshot](https://github.com/sravs6454/portfolio/blob/main//contactform.png?raw=true)
 
 
 ## 📂 Project Structure
