@@ -356,7 +356,7 @@ section {
 /* Education Section */
 
 .education {
-    padding: 10rem 2rem;
+    padding: 7rem 2rem;
     background-color: #f4f4f4;
     text-align: center;
 }
@@ -444,7 +444,7 @@ section {
 /* Service Section */
 /* Services Section Styling */
 .services {
-    padding: 10rem 2rem;
+    padding: 7rem 2rem;
     background-color: #f4f4f4;
     text-align: center;
 }
@@ -590,7 +590,7 @@ section {
 
 /* Project Section */
 .projects {
-    padding: 9rem 2rem;
+    padding: 7rem 2rem;
     background-color: #f4f4f4;
 }
 
@@ -753,7 +753,7 @@ section {
 /* Contact Section */
 .contact {
     background-color: #f4f4f4;
-    padding: 10rem 3rem;
+    padding: 7rem 2rem;
 }
 
 .contact .heading {
