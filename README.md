@@ -6,7 +6,7 @@ Welcome to my portfolio! This website showcases my skills, projects, and service
 
 You can view the live version of my portfolio website at:
 
-[*Live Portfolio*](https://your-portfolio-link.com)
+[*Live Portfolio*](https://sravs6454.github.io/Portfolio/)
 
 ## 🔧 Technologies Used
 
