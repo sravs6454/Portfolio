@@ -131,7 +131,7 @@ section {
 
 /* Home Section */
 .home {
-    padding: 5rem 2rem;
+    padding: 6rem 2rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -269,7 +269,7 @@ section {
 /*About Section*/
 
 .about {
-    padding: 7rem 2rem;
+    padding: 8rem 2rem;
     background-color: #f4f4f4;
     text-align: center;
 }
@@ -356,7 +356,7 @@ section {
 /* Education Section */
 
 .education {
-    padding: 7rem 2rem;
+    padding: 6rem 2rem;
     background-color: #f4f4f4;
     text-align: center;
 }
@@ -444,7 +444,7 @@ section {
 /* Service Section */
 /* Services Section Styling */
 .services {
-    padding: 7rem 2rem;
+    padding: 4rem 2rem;
     background-color: #f4f4f4;
     text-align: center;
 }
@@ -590,7 +590,7 @@ section {
 
 /* Project Section */
 .projects {
-    padding: 7rem 2rem;
+    padding: 4rem 2rem;
     background-color: #f4f4f4;
 }
 
@@ -753,7 +753,7 @@ section {
 /* Contact Section */
 .contact {
     background-color: #f4f4f4;
-    padding: 7rem 2rem;
+    padding: 8rem 2rem;
 }
 
 .contact .heading {
